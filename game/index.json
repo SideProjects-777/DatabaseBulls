@@ -1,0 +1,19 @@
+[
+    {
+        "id":1,
+        "name":{
+            "en":"Hello",
+            "de":"Hallo",
+            "ru":"Привет"
+        },
+        "answer":"1893",
+        "description":{
+            "en":"My birthday",
+            "de":"Mein Geburtsdatum",
+            "ru":"Мой День Рождения"
+        },
+        "rounds": 5,
+        "reward": 100,
+        "badge":"some random url"
+    }
+]
