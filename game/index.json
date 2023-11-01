@@ -8,13 +8,13 @@
         },
         "answer":"1893",
         "description":{
-            "en":"My birthdayDESCR",
-            "de":"Mein GeburtsdatumDESCR",
-            "ru":"Мой День РожденияDescr"
+            "en":"https://sideprojects-777.github.io/DatabaseBulls/game/descrp/1/en.txt",
+            "de":"https://sideprojects-777.github.io/DatabaseBulls/game/descrp/1/de.txt",
+            "ru":"https://sideprojects-777.github.io/DatabaseBulls/game/descrp/1/ru.txt"
         },
         "rounds": 5,
         "reward": 100,
-        "badge":"some random url"
+        "badge":"https://sideprojects-777.github.io/DatabaseBulls/game/img/1.jpg"
     },
     {
         "id":2,
@@ -25,30 +25,30 @@
         },
         "answer":"1893",
         "description":{
-            "en":"My birthdayDESCR",
-            "de":"Mein GeburtsdatumDESCR",
-            "ru":"Мой День РожденияDescr"
+            "en":"https://sideprojects-777.github.io/DatabaseBulls/game/descrp/2/en.txt",
+            "de":"https://sideprojects-777.github.io/DatabaseBulls/game/descrp/2/de.txt",
+            "ru":"https://sideprojects-777.github.io/DatabaseBulls/game/descrp/2/ru.txt"
         },
         "rounds": 5,
         "reward": 100,
-        "badge":"some random url"
+        "badge":"https://sideprojects-777.github.io/DatabaseBulls/game/img/2.jpg"
     },
     {
         "id":3,
         "name":{
-            "en":"Day of birthday",
-            "de":"Mein Geburtsdatum",
-            "ru":"Мой День Рождения"
+            "en":"Day of birthday3",
+            "de":"Mein Geburtsdatum3",
+            "ru":"Мой День Рождения3"
         },
         "answer":"1893",
         "description":{
-            "en":"My birthdayDESCR",
-            "de":"Mein GeburtsdatumDESCR",
-            "ru":"Мой День РожденияDescr"
+            "en":"https://sideprojects-777.github.io/DatabaseBulls/game/descrp/3/en.txt",
+            "de":"https://sideprojects-777.github.io/DatabaseBulls/game/descrp/3/de.txt",
+            "ru":"https://sideprojects-777.github.io/DatabaseBulls/game/descrp/3/ru.txt"
         },
         "rounds": 5,
         "reward": 100,
-        "badge":"some random url"
+        "badge":"https://sideprojects-777.github.io/DatabaseBulls/game/img/3.jpg"
     },
     {
         "id":4,
@@ -59,12 +59,12 @@
         },
         "answer":"1893",
         "description":{
-            "en":"My birthdayDESCR",
-            "de":"Mein GeburtsdatumDESCR",
-            "ru":"Мой День РожденияDescr"
+            "en":"https://sideprojects-777.github.io/DatabaseBulls/game/descrp/4/en.txt",
+            "de":"https://sideprojects-777.github.io/DatabaseBulls/game/descrp/4/de.txt",
+            "ru":"https://sideprojects-777.github.io/DatabaseBulls/game/descrp/4/ru.txt"
         },
         "rounds": 5,
         "reward": 100,
-        "badge":"some random url"
+        "badge":"https://sideprojects-777.github.io/DatabaseBulls/game/img/4.jpg"
     }
 ]
