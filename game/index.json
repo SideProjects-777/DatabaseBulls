@@ -2,15 +2,66 @@
     {
         "id":1,
         "name":{
-            "en":"Hello",
-            "de":"Hallo",
-            "ru":"Привет"
+            "en":"Day of birthday1",
+            "de":"Mein Geburtsdatum1",
+            "ru":"Мой День Рождения1"
         },
         "answer":"1893",
         "description":{
-            "en":"My birthday",
+            "en":"My birthdayDESCR",
+            "de":"Mein GeburtsdatumDESCR",
+            "ru":"Мой День РожденияDescr"
+        },
+        "rounds": 5,
+        "reward": 100,
+        "badge":"some random url"
+    },
+    {
+        "id":2,
+        "name":{
+            "en":"Day of birthday",
             "de":"Mein Geburtsdatum",
             "ru":"Мой День Рождения"
+        },
+        "answer":"1893",
+        "description":{
+            "en":"My birthdayDESCR",
+            "de":"Mein GeburtsdatumDESCR",
+            "ru":"Мой День РожденияDescr"
+        },
+        "rounds": 5,
+        "reward": 100,
+        "badge":"some random url"
+    },
+    {
+        "id":3,
+        "name":{
+            "en":"Day of birthday",
+            "de":"Mein Geburtsdatum",
+            "ru":"Мой День Рождения"
+        },
+        "answer":"1893",
+        "description":{
+            "en":"My birthdayDESCR",
+            "de":"Mein GeburtsdatumDESCR",
+            "ru":"Мой День РожденияDescr"
+        },
+        "rounds": 5,
+        "reward": 100,
+        "badge":"some random url"
+    },
+    {
+        "id":4,
+        "name":{
+            "en":"Day of birthday4",
+            "de":"Mein Geburtsdatum4",
+            "ru":"Мой День Рождения4"
+        },
+        "answer":"1893",
+        "description":{
+            "en":"My birthdayDESCR",
+            "de":"Mein GeburtsdatumDESCR",
+            "ru":"Мой День РожденияDescr"
         },
         "rounds": 5,
         "reward": 100,
