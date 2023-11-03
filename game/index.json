@@ -2,11 +2,16 @@
     {
         "id":1,
         "name":{
-            "en":"Day of birthday1",
-            "de":"Mein Geburtsdatum1",
-            "ru":"Мой День Рождения1"
+            "en":"When did the first human travel to space?",
+            "de":"Wann fand der erste bemannte Raumflug statt?",
+            "ru":"Когда состоялся первый полет человека в космос?"
         },
-        "answer":"1893",
+        "hint":{
+            "en":"We need a year",
+            "de":"Geben Sie das Jahr an",
+            "ru":"Укажите год"
+        },
+        "answer":"1961",
         "description":{
             "en":"https://sideprojects-777.github.io/DatabaseBulls/game/descrp/1/en.txt",
             "de":"https://sideprojects-777.github.io/DatabaseBulls/game/descrp/1/de.txt",
