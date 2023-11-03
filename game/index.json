@@ -24,9 +24,14 @@
     {
         "id":2,
         "name":{
-            "en":"Day of birthday",
-            "de":"Mein Geburtsdatum",
-            "ru":"Мой День Рождения"
+            "en":"When was Albert Einstein born?",
+            "de":"Wann wurde Albert Einstein geboren?",
+            "ru":"Когда родился Альберт Эйнштейн?"
+        },
+        "hint":{
+            "en":"We need a year",
+            "de":"Geben Sie das Jahr an",
+            "ru":"Укажите год"
         },
         "answer":"1893",
         "description":{
