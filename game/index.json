@@ -19,7 +19,7 @@
         },
         "rounds": 5,
         "reward": 100,
-        "badge":"https://sideprojects-777.github.io/DatabaseBulls/game/img/1.jpg"
+        "badge":"https://sideprojects-777.github.io/DatabaseBulls/game/badge/1.jpg"
     },
     {
         "id":2,
@@ -41,7 +41,7 @@
         },
         "rounds": 5,
         "reward": 100,
-        "badge":"https://sideprojects-777.github.io/DatabaseBulls/game/img/2.jpg"
+        "badge":"https://sideprojects-777.github.io/DatabaseBulls/game/badge/2.jpg"
     },
     {
         "id":3,
@@ -63,16 +63,21 @@
         },
         "rounds": 5,
         "reward": 100,
-        "badge":"https://sideprojects-777.github.io/DatabaseBulls/game/img/3.jpg"
+        "badge":"https://sideprojects-777.github.io/DatabaseBulls/game/badge/3.jpg"
     },
     {
         "id":4,
         "name":{
-            "en":"Day of birthday4",
-            "de":"Mein Geburtsdatum4",
-            "ru":"Мой День Рождения4"
+            "en":"When was DNA discovered?",
+            "de":"Wann wurde die DNA entdeckt?",
+            "ru":"Когда была открыта ДНК?"
         },
-        "answer":"1893",
+        "hint":{
+            "en":"We need a year",
+            "de":"Geben Sie das Jahr an",
+            "ru":"Укажите год"
+        },
+        "answer":"1860",
         "description":{
             "en":"https://sideprojects-777.github.io/DatabaseBulls/game/descrp/4/en.txt",
             "de":"https://sideprojects-777.github.io/DatabaseBulls/game/descrp/4/de.txt",
@@ -80,6 +85,6 @@
         },
         "rounds": 5,
         "reward": 100,
-        "badge":"https://sideprojects-777.github.io/DatabaseBulls/game/img/4.jpg"
+        "badge":"https://sideprojects-777.github.io/DatabaseBulls/game/badge/4.jpg"
     }
 ]
