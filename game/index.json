@@ -46,11 +46,16 @@
     {
         "id":3,
         "name":{
-            "en":"Day of birthday3",
-            "de":"Mein Geburtsdatum3",
-            "ru":"Мой День Рождения3"
+            "en":"When did Mono Lisa start to be written? ",
+            "de":"Wann begannen sie, Mono Lisa zu schreiben?",
+            "ru":"Когда начали писать Моно Лизу?"
         },
-        "answer":"1893",
+        "hint":{
+            "en":"We need a year",
+            "de":"Geben Sie das Jahr an",
+            "ru":"Укажите год"
+        },
+        "answer":"1503",
         "description":{
             "en":"https://sideprojects-777.github.io/DatabaseBulls/game/descrp/3/en.txt",
             "de":"https://sideprojects-777.github.io/DatabaseBulls/game/descrp/3/de.txt",
