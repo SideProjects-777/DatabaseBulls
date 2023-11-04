@@ -24,7 +24,8 @@
         },
         "rounds": 5,
         "reward": 100,
-        "badge":"https://sideprojects-777.github.io/DatabaseBulls/game/badge/1.jpg"
+        "badge":"https://sideprojects-777.github.io/DatabaseBulls/game/badge/1.jpg",
+        "pending":"https://sideprojects-777.github.io/DatabaseBulls/game/pending/1.jpg"
     },
     {
         "id":2,
@@ -51,7 +52,8 @@
         },
         "rounds": 5,
         "reward": 100,
-        "badge":"https://sideprojects-777.github.io/DatabaseBulls/game/badge/2.jpg"
+        "badge":"https://sideprojects-777.github.io/DatabaseBulls/game/badge/2.jpg",
+        "pending":"https://sideprojects-777.github.io/DatabaseBulls/game/pending/1.jpg"
     },
     {
         "id":3,
@@ -78,7 +80,8 @@
         },
         "rounds": 5,
         "reward": 300,
-        "badge":"https://sideprojects-777.github.io/DatabaseBulls/game/badge/3.jpg"
+        "badge":"https://sideprojects-777.github.io/DatabaseBulls/game/badge/3.jpg",
+        "pending":"https://sideprojects-777.github.io/DatabaseBulls/game/pending/2.jpg"
     },
     {
         "id":4,
@@ -105,6 +108,7 @@
         },
         "rounds": 5,
         "reward": 500,
-        "badge":"https://sideprojects-777.github.io/DatabaseBulls/game/badge/4.jpg"
+        "badge":"https://sideprojects-777.github.io/DatabaseBulls/game/badge/4.jpg",
+        "pending":"https://sideprojects-777.github.io/DatabaseBulls/game/pending/3.jpg"
     }
 ]
