@@ -1,15 +1,20 @@
 [
     {
         "id":1,
+        "short":{
+            "en":"Space Travel",
+            "de":"Raumfahrt",
+            "ru":"Космос"
+        },
         "name":{
             "en":"When did the first human travel to space?",
             "de":"Wann fand der erste bemannte Raumflug statt?",
             "ru":"Когда состоялся первый полет человека в космос?"
         },
         "hint":{
-            "en":"We need a year",
-            "de":"Geben Sie das Jahr an",
-            "ru":"Укажите год"
+            "en":"Specify the year of the space flight. This number contains repeating digits (e.g. 1993).",
+            "de":"Geben Sie das Jahr der Abreise ein. Diese Zahl enthält sich wiederholende Ziffern (z. B. 1993).",
+            "ru":"Укажите год вылета. В данном числе есть повторяющиеся цифры (например 1993)."
         },
         "answer":"1961",
         "description":{
@@ -23,15 +28,20 @@
     },
     {
         "id":2,
+        "short":{
+            "en":"Einstein",
+            "de":"Einstein",
+            "ru":"Эйнштейн"
+        },
         "name":{
             "en":"When was Albert Einstein born?",
             "de":"Wann wurde Albert Einstein geboren?",
             "ru":"Когда родился Альберт Эйнштейн?"
         },
         "hint":{
-            "en":"We need a year",
-            "de":"Geben Sie das Jahr an",
-            "ru":"Укажите год"
+            "en":"We need a year. There are no repeating digits in a given number.",
+            "de":"Geben Sie das Jahr an. Es gibt keine sich wiederholenden Ziffern in einer bestimmten Zahl.",
+            "ru":"Укажите год рождения. В данном числе нет повторяющихся цифр."
         },
         "answer":"1893",
         "description":{
@@ -45,15 +55,20 @@
     },
     {
         "id":3,
+        "short":{
+            "en":"Mono Lisa",
+            "de":"Mono Lisa",
+            "ru":"Моно Лиза"
+        },
         "name":{
             "en":"When did Mono Lisa start to be written? ",
             "de":"Wann begannen sie, Mono Lisa zu schreiben?",
             "ru":"Когда начали писать Моно Лизу?"
         },
         "hint":{
-            "en":"We need a year",
-            "de":"Geben Sie das Jahr an",
-            "ru":"Укажите год"
+            "en":"Indicate the year of the beginning of work on the painting. There are no repeating digits in this number.",
+            "de":"Geben Sie das Jahr an, in dem das Gemälde entstanden ist. Diese Zahl enthält keine sich wiederholenden Ziffern.",
+            "ru":"Укажите год, начала работы над картиной. В данном числе нет повторяющихся цифр."
         },
         "answer":"1503",
         "description":{
@@ -62,20 +77,25 @@
             "ru":"https://sideprojects-777.github.io/DatabaseBulls/game/descrp/3/ru.txt"
         },
         "rounds": 5,
-        "reward": 100,
+        "reward": 300,
         "badge":"https://sideprojects-777.github.io/DatabaseBulls/game/badge/3.jpg"
     },
     {
         "id":4,
+        "short":{
+            "en":"DNA",
+            "de":"DNA",
+            "ru":"ДНК"
+        },
         "name":{
             "en":"When was DNA discovered?",
             "de":"Wann wurde die DNA entdeckt?",
             "ru":"Когда была открыта ДНК?"
         },
         "hint":{
-            "en":"We need a year",
-            "de":"Geben Sie das Jahr an",
-            "ru":"Укажите год"
+            "en":"Indicate the year of discovery. There are no repeating digits in this number.",
+            "de":"Geben Sie das Jahr der Entdeckung an. Diese Zahl enthält keine sich wiederholenden Ziffern.",
+            "ru":"Укажите год открытия. В данном числе нет повторяющихся цифр."
         },
         "answer":"1860",
         "description":{
@@ -84,7 +104,7 @@
             "ru":"https://sideprojects-777.github.io/DatabaseBulls/game/descrp/4/ru.txt"
         },
         "rounds": 5,
-        "reward": 100,
+        "reward": 500,
         "badge":"https://sideprojects-777.github.io/DatabaseBulls/game/badge/4.jpg"
     }
 ]
