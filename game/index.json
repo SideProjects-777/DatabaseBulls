@@ -138,5 +138,33 @@
         "reward": 300,
         "badge":"https://sideprojects-777.github.io/DatabaseBulls/game/badge/5.jpg",
         "pending":"https://sideprojects-777.github.io/DatabaseBulls/game/pending/3.jpg"
+    },
+    {
+        "id":6,
+        "short":{
+            "en":"Bugs Bunny",
+            "de":"Bugs Bunny",
+            "ru":"Багз Банни"
+        },
+        "name":{
+            "en":"When Bugs Bunny made his debut?",
+            "de":"Wann hat Bugs Bunny sein Debüt gegeben?",
+            "ru":"Когда состоялся дебют Багза Банни?"
+        },
+        "hint":{
+            "en":"We need a year. There are no repeating digits in a given number.",
+            "de":"Geben Sie das Jahr an. Es gibt keine sich wiederholenden Ziffern in einer bestimmten Zahl.",
+            "ru":"Укажите год рождения. В данном числе нет повторяющихся цифр."
+        },
+        "answer":"1940",
+        "description":{
+            "en":"https://sideprojects-777.github.io/DatabaseBulls/game/descrp/6/en.txt",
+            "de":"https://sideprojects-777.github.io/DatabaseBulls/game/descrp/6/de.txt",
+            "ru":"https://sideprojects-777.github.io/DatabaseBulls/game/descrp/6/ru.txt"
+        },
+        "rounds": 15,
+        "reward": 500,
+        "badge":"https://sideprojects-777.github.io/DatabaseBulls/game/badge/6.jpg",
+        "pending":"https://sideprojects-777.github.io/DatabaseBulls/game/pending/4.jpg"
     }
 ]
