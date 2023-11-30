@@ -1,5 +1,33 @@
 [
     {
+        "id":1,
+        "short":{
+            "en":"Space Travel",
+            "de":"Raumfahrt",
+            "ru":"Космос"
+        },
+        "name":{
+            "en":"When did the first human travel to space?",
+            "de":"Wann fand der erste bemannte Raumflug statt?",
+            "ru":"Когда состоялся первый полет человека в космос?"
+        },
+        "hint":{
+            "en":"Specify the year of the space flight. This number contains repeating digits (e.g. 1993).",
+            "de":"Geben Sie das Jahr der Abreise ein. Diese Zahl enthält sich wiederholende Ziffern (z. B. 1993).",
+            "ru":"Укажите год вылета. В данном числе есть повторяющиеся цифры (например 1993)."
+        },
+        "answer":"1961",
+        "description":{
+            "en":"https://sideprojects-777.github.io/DatabaseBulls/game/descrp/1/en.txt",
+            "de":"https://sideprojects-777.github.io/DatabaseBulls/game/descrp/1/de.txt",
+            "ru":"https://sideprojects-777.github.io/DatabaseBulls/game/descrp/1/ru.txt"
+        },
+        "rounds": 5,
+        "reward": 100,
+        "badge":"https://sideprojects-777.github.io/DatabaseBulls/game/badge/1.jpg",
+        "pending":"https://sideprojects-777.github.io/DatabaseBulls/game/pending/1.jpg"
+    },
+    {
         "id":2,
         "short":{
             "en":"Einstein",
@@ -138,33 +166,5 @@
         "reward": 500,
         "badge":"https://sideprojects-777.github.io/DatabaseBulls/game/badge/6.jpg",
         "pending":"https://sideprojects-777.github.io/DatabaseBulls/game/pending/4.jpg"
-    },
-    {
-        "id":7,
-        "short":{
-            "en":"Columbus",
-            "de":"Kolumbus",
-            "ru":"Колумб"
-        },
-        "name":{
-            "en":"When did Columbus's first voyage to the Americas?",
-            "de":"Wann hat Kolumbus die erste Reise nach Amerika unternommen?",
-            "ru":"Когда Колумб совершил первое путешествие в Америку?"
-        },
-        "hint":{
-            "en":"We need a year. There are no repeating digits in a given number.",
-            "de":"Geben Sie das Jahr an. Es gibt keine sich wiederholenden Ziffern in einer bestimmten Zahl.",
-            "ru":"Укажите год рождения. В данном числе нет повторяющихся цифр."
-        },
-        "answer":"1492",
-        "description":{
-            "en":"https://sideprojects-777.github.io/DatabaseBulls/game/descrp/7/en.txt",
-            "de":"https://sideprojects-777.github.io/DatabaseBulls/game/descrp/7/de.txt",
-            "ru":"https://sideprojects-777.github.io/DatabaseBulls/game/descrp/7/ru.txt"
-        },
-        "rounds": 10,
-        "reward": 1000,
-        "badge":"https://sideprojects-777.github.io/DatabaseBulls/game/badge/7.jpg",
-        "pending":"https://sideprojects-777.github.io/DatabaseBulls/game/pending/2.jpg"
     }
 ]
