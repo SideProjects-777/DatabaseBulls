@@ -1,0 +1,326 @@
+[
+    {
+        "secret": "8357",
+        "tip1": "5483",
+        "description1": "This guess has 0 bulls and 2 cows.",
+        "tip2": "7936",
+        "description2": "This guess has 1 bull and 1 cow.",
+        "tip3": "1285",
+        "description3": "This guess has 0 bulls and 2 cows."
+    }, {
+        "secret": "4629",
+        "tip1": "6194",
+        "description1": "This guess has 1 bull and 2 cows.",
+        "tip2": "9246",
+        "description2": "This guess has 0 bulls and 4 cows.",
+        "tip3": "7462",
+        "description3": "This guess has 1 bull and 3 cows."
+
+    }, {
+        "secret": "1758",
+        "tip1": "8137",
+        "description1": "This guess has 1 bull and 2 cows.",
+        "tip2": "1584",
+        "description2": "This guess has 2 bulls and 1 cow.",
+        "tip3": "5781",
+        "description3": "This guess has 0 bulls and 3 cows."
+
+    }, {
+        "secret": "3941",
+        "tip1": "1493",
+        "description1": "This guess has 0 bulls and 4 cows.",
+        "tip2": "9413",
+        "description2": "This guess has 1 bull and 3 cows.",
+        "tip3": "3149",
+        "description3": "This guess has 2 bulls and 2 cows."
+    }, {
+        "secret": "8265",
+        "tip1": "5628",
+        "description1": "This guess has 1 bull and 3 cows.",
+        "tip2": "2856",
+        "description2": "This guess has 0 bulls and 4 cows.",
+        "tip3": "8264",
+        "description3": "This guess has 3 bulls and 0 cows."
+    }, {
+        "secret": "7314",
+        "tip1": "4173",
+        "description1": "This guess has 0 bulls and 4 cows.",
+        "tip2": "3147",
+        "description2": "This guess has 1 bull and 3 cows.",
+        "tip3": "7315",
+        "description3": "This guess has 3 bulls and 0 cows."
+    }, {
+        "secret": "4928",
+        "tip1": "8492",
+        "description1": "This guess has 0 bulls and 4 cows.",
+        "tip2": "9248",
+        "description2": "This guess has 1 bull and 3 cows.",
+        "tip3": "4982",
+        "description3": "This guess has 2 bulls and 2 cows."
+    }, {
+        "secret": "6573",
+        "tip1": "7356",
+        "description1": "This guess has 0 bulls and 4 cows.",
+        "tip2": "3765",
+        "description2": "This guess has 1 bull and 3 cows.",
+        "tip3": "6572",
+        "description3": "This guess has 3 bulls and 0 cows."
+    }, {
+        "secret": "9183",
+        "tip1": "3819",
+        "description1": "This guess has 0 bulls and 4 cows.",
+        "tip2": "8193",
+        "description2": "This guess has 1 bull and 3 cows.",
+        "tip3": "9182",
+        "description3": "This guess has 3 bulls and 0 cows."
+    }, {
+        "secret": "3472",
+        "tip1": "2347",
+        "description1": "This guess has 0 bulls and 4 cows.",
+        "tip2": "4732",
+        "description2": "This guess has 1 bull and 3 cows.",
+        "tip3": "3471",
+        "description3": "This guess has 3 bulls and 0 cows."
+    }, {
+        "secret": "8357",
+        "tip1": "5483",
+        "description1": "This guess has 0 bulls and 2 cows.",
+        "tip2": "7936",
+        "description2": "This guess has 1 bull and 1 cow.",
+        "tip3": "1285",
+        "description3": "This guess has 0 bulls and 2 cows."
+    }, {
+        "secret": "2914",
+        "tip1": "3481",
+        "description1": "This guess has 0 bulls and 2 cows.",
+        "tip2": "9123",
+        "description2": "This guess has 2 bulls and 1 cow.",
+        "tip3": "2917",
+        "description3": "This guess has 3 bulls and 0 cows."
+    }, {
+        "secret": "4762",
+        "tip1": "2746",
+        "description1": "This guess has 1 bull and 2 cows.",
+        "tip2": "1624",
+        "description2": "This guess has 0 bulls and 3 cows.",
+        "tip3": "4761",
+        "description3": "This guess has 3 bulls and 0 cows."
+    }, {
+        "secret": "8503",
+        "tip1": "3075",
+        "description1": "This guess has 1 bull and 1 cow.",
+        "tip2": "8512",
+        "description2": "This guess has 3 bulls and 0 cows.",
+        "tip3": "5680",
+        "description3": "This guess has 0 bulls and 3 cows."
+    }, {
+        "secret": "9234",
+        "tip1": "4829",
+        "description1": "This guess has 0 bulls and 3 cows.",
+        "tip2": "1934",
+        "description2": "This guess has 2 bulls and 1 cow.",
+        "tip3": "3249",
+        "description3": "This guess has 0 bulls and 4 cows."
+    }, {
+        "secret": "1678",
+        "tip1": "7816",
+        "description1": "This guess has 1 bull and 3 cows.",
+        "tip2": "1768",
+        "description2": "This guess has 2 bulls and 2 cows.",
+        "tip3": "5681",
+        "description3": "This guess has 1 bull and 1 cow."
+    }, {
+        "secret": "5096",
+        "tip1": "6509",
+        "description1": "This guess has 0 bulls and 4 cows.",
+        "tip2": "1695",
+        "description2": "This guess has 2 bulls and 2 cows.",
+        "tip3": "5906",
+        "description3": "This guess has 3 bulls and 0 cows."
+    }, {
+        "secret": "7345",
+        "tip1": "5473",
+        "description1": "This guess has 0 bulls and 4 cows.",
+        "tip2": "7346",
+        "description2": "This guess has 3 bulls and 0 cows.",
+        "tip3": "8357",
+        "description3": "This guess has 1 bull and 1 cow."
+    }, {
+        "secret": "2981",
+        "tip1": "8192",
+        "description1": "This guess has 0 bulls and 4 cows.",
+        "tip2": "2918",
+        "description2": "This guess has 2 bulls and 2 cows.",
+        "tip3": "1982",
+        "description3": "This guess has 3 bulls and 1 cow."
+    }, {
+        "secret": "6123",
+        "tip1": "3261",
+        "description1": "This guess has 0 bulls and 4 cows.",
+        "tip2": "6124",
+        "description2": "This guess has 3 bulls and 0 cows.",
+        "tip3": "1234",
+        "description3": "This guess has 1 bull and 3 cows."
+    }, {
+        "secret": "4827",
+        "tip1": "2748",
+        "description1": "This guess has 0 bulls and 4 cows.",
+        "tip2": "4872",
+        "description2": "This guess has 3 bulls and 1 cow.",
+        "tip3": "8234",
+        "description3": "This guess has 1 bull and 1 cow."
+    }, {
+        "secret": "9531",
+        "tip1": "3195",
+        "description1": "This guess has 0 bulls and 4 cows.",
+        "tip2": "9537",
+        "description2": "This guess has 3 bulls and 0 cows.",
+        "tip3": "1935",
+        "description3": "This guess has 2 bulls and 2 cows."
+    }, {
+        "secret": "7642",
+        "tip1": "4267",
+        "description1": "This guess has 0 bulls and 4 cows.",
+        "tip2": "7643",
+        "description2": "This guess has 3 bulls and 0 cows.",
+        "tip3": "6472",
+        "description3": "This guess has 1 bull and 3 cows."
+    }, {
+        "secret": "3819",
+        "tip1": "9183",
+        "description1": "This guess has 0 bulls and 4 cows.",
+        "tip2": "3817",
+        "description2": "This guess has 3 bulls and 0 cows.",
+        "tip3": "8319",
+        "description3": "This guess has 2 bulls and 2 cows."
+    }, {
+        "secret": "2076",
+        "tip1": "6720",
+        "description1": "This guess has 0 bulls and 4 cows.",
+        "tip2": "2074",
+        "description2": "This guess has 3 bulls and 0 cows.",
+        "tip3": "7620",
+        "description3": "This guess has 2 bulls and 2 cows."
+    }, {
+        "secret": "5198",
+        "tip1": "8915",
+        "description1": "This guess has 0 bulls and 4 cows.",
+        "tip2": "5196",
+        "description2": "This guess has 3 bulls and 0 cows.",
+        "tip3": "1958",
+        "description3": "This guess has 2 bulls and 2 cows."
+    }, {
+        "secret": "3649",
+        "tip1": "4963",
+        "description1": "This guess has 0 bulls and 4 cows.",
+        "tip2": "3648",
+        "description2": "This guess has 3 bulls and 0 cows.",
+        "tip3": "6493",
+        "description3": "This guess has 1 bull and 3 cows."
+    }, {
+        "secret": "7485",
+        "tip1": "8547",
+        "description1": "This guess has 0 bulls and 4 cows.",
+        "tip2": "7486",
+        "description2": "This guess has 3 bulls and 0 cows.",
+        "tip3": "4875",
+        "description3": "This guess has 2 bulls and 2 cows."
+    }, {
+        "secret": "5614",
+        "tip1": "4156",
+        "description1": "This guess has 0 bulls and 4 cows.",
+        "tip2": "5612",
+        "description2": "This guess has 3 bulls and 0 cows.",
+        "tip3": "1456",
+        "description3": "This guess has 1 bull and 3 cows."
+    }, {
+        "secret": "8372",
+        "tip1": "2783",
+        "description1": "This guess has 0 bulls and 4 cows.",
+        "tip2": "8371",
+        "description2": "This guess has 3 bulls and 0 cows.",
+        "tip3": "3728",
+        "description3": "This guess has 1 bull and 3 cows."
+    }, {
+        "secret": "1594",
+        "tip1": "4915",
+        "description1": "This guess has 0 bulls and 4 cows.",
+        "tip2": "1593",
+        "description2": "This guess has 3 bulls and 0 cows.",
+        "tip3": "5149",
+        "description3": "This guess has 1 bull and 3 cows."
+    }, {
+        "secret": "7286",
+        "tip1": "6827",
+        "description1": "This guess has 0 bulls and 4 cows.",
+        "tip2": "7285",
+        "description2": "This guess has 3 bulls and 0 cows.",
+        "tip3": "2678",
+        "description3": "This guess has 1 bull and 3 cows."
+    }, {
+        "secret": "3641",
+        "tip1": "4163",
+        "description1": "This guess has 0 bulls and 4 cows.",
+        "tip2": "3642",
+        "description2": "This guess has 3 bulls and 0 cows.",
+        "tip3": "1436",
+        "description3": "This guess has 1 bull and 3 cows."
+    }, {
+        "secret": "8932",
+        "tip1": "3289",
+        "description1": "This guess has 0 bulls and 4 cows.",
+        "tip2": "8931",
+        "description2": "This guess has 3 bulls and 0 cows.",
+        "tip3": "2398",
+        "description3": "This guess has 1 bull and 3 cows."
+    }, {
+        "secret": "7458",
+        "tip1": "5847",
+        "description1": "This guess has 0 bulls and 4 cows.",
+        "tip2": "7459",
+        "description2": "This guess has 3 bulls and 0 cows.",
+        "tip3": "4587",
+        "description3": "This guess has 1 bull and 3 cows."
+    }, {
+        "secret": "9186",
+        "tip1": "6819",
+        "description1": "This guess has 0 bulls and 4 cows.",
+        "tip2": "9187",
+        "description2": "This guess has 3 bulls and 0 cows.",
+        "tip3": "1968",
+        "description3": "This guess has 1 bull and 3 cows."
+    }, {
+        "secret": "2435",
+        "tip1": "5342",
+        "description1": "This guess has 0 bulls and 4 cows.",
+        "tip2": "2436",
+        "description2": "This guess has 3 bulls and 0 cows.",
+        "tip3": "3524",
+        "description3": "This guess has 1 bull and 3 cows."
+    }, {
+        "secret": "6719",
+        "tip1": "1967",
+        "description1": "This guess has 0 bulls and 4 cows.",
+        "tip2": "6718",
+        "description2": "This guess has 3 bulls and 0 cows.",
+        "tip3": "9761",
+        "description3": "This guess has 1 bull and 3 cows."
+    }, {
+        "secret": "4825",
+        "tip1": "5248",
+        "description1": "This guess has 0 bulls and 4 cows.",
+        "tip2": "4826",
+        "description2": "This guess has 3 bulls and 0 cows.",
+        "tip3": "2584",
+        "description3": "This guess has 1 bull and 3 cows."
+    }, {
+        "secret": "5361",
+        "tip1": "1635",
+        "description1": "This guess has 0 bulls and 4 cows.",
+        "tip2": "5362",
+        "description2": "This guess has 3 bulls and 0 cows.",
+        "tip3": "3156",
+        "description3": "This guess has 1 bull and 3 cows."
+    }
+
+]
