@@ -18,9 +18,9 @@
         },
         "answer":"1893",
         "description":{
-            "en":"https://sideprojects-777.github.io/DatabaseBulls/game/descrp/2/en.txt",
-            "de":"https://sideprojects-777.github.io/DatabaseBulls/game/descrp/2/de.txt",
-            "ru":"https://sideprojects-777.github.io/DatabaseBulls/game/descrp/2/ru.txt"
+            "en":"Albert Einstein was a German-born theoretical physicist best known for developing the theories of special and general relativity. His groundbreaking work transformed our understanding of space, time, and gravity, and his famous equation, E=mc², became one of the most recognized formulas in science. Widely regarded as one of the greatest scientists in history, Einstein's discoveries continue to influence modern physics and our understanding of the universe.",
+            "de":"Albert Einstein war ein deutschstämmiger theoretischer Physiker, der vor allem für die Entwicklung der speziellen und allgemeinen Relativitätstheorie bekannt ist. Seine bahnbrechenden Arbeiten veränderten unser Verständnis von Raum, Zeit und Gravitation grundlegend, und seine berühmte Gleichung E=mc² wurde zu einer der bekanntesten Formeln der Wissenschaft. Einstein gilt als einer der größten Wissenschaftler der Geschichte, und seine Entdeckungen beeinflussen bis heute die moderne Physik sowie unser Verständnis des Universums.",
+            "ru":"Альберт Эйнштейн был немецким физиком-теоретиком, наиболее известным благодаря разработке специальной и общей теорий относительности. Его революционные научные работы коренным образом изменили наше понимание пространства, времени и гравитации, а его знаменитая формула E=mc² стала одной из самых известных формул в истории науки. Эйнштейн широко считается одним из величайших учёных всех времён, а его открытия продолжают оказывать огромное влияние на современную физику и наше понимание Вселенной."
         },
         "rounds": 10,
         "reward": 100,
@@ -46,9 +46,9 @@
         },
         "answer":"1503",
         "description":{
-            "en":"https://sideprojects-777.github.io/DatabaseBulls/game/descrp/3/en.txt",
-            "de":"https://sideprojects-777.github.io/DatabaseBulls/game/descrp/3/de.txt",
-            "ru":"https://sideprojects-777.github.io/DatabaseBulls/game/descrp/3/ru.txt"
+            "en":"The Mona Lisa is one of the world's most famous paintings, created by Leonardo da Vinci. Renowned for its mysterious smile and remarkable artistry, the painting has fascinated viewers for centuries. The identity of its subject remains a topic of debate, adding to its enduring appeal. Today, the Mona Lisa stands as an iconic masterpiece and a symbol of the lasting influence of Renaissance art.",
+            "de":"Die Mona Lisa ist eines der berühmtesten Gemälde der Welt und wurde von Leonardo da Vinci geschaffen. Berühmt für ihr geheimnisvolles Lächeln und ihre außergewöhnliche künstlerische Qualität, fasziniert das Gemälde seit Jahrhunderten Menschen auf der ganzen Welt. Die Identität der dargestellten Frau ist bis heute nicht eindeutig geklärt, was zur anhaltenden Faszination des Werks beiträgt. Die Mona Lisa gilt als Meisterwerk der Renaissance und als Symbol für die zeitlose Kraft der Kunst.",
+            "ru":"Мона Лиза является одной из самых известных картин в мире и была создана Леонардо да Винчи. Знаменитая своей загадочной улыбкой и выдающимся художественным мастерством, картина на протяжении веков восхищает людей по всему миру. Личность изображённой женщины до сих пор остаётся предметом споров, что лишь усиливает интерес к этому произведению. Сегодня «Мона Лиза» считается шедевром эпохи Возрождения и символом вечной силы искусства."
         },
         "rounds": 10,
         "reward": 300,
@@ -74,9 +74,9 @@
         },
         "answer":"1860",
         "description":{
-            "en":"https://sideprojects-777.github.io/DatabaseBulls/game/descrp/4/en.txt",
-            "de":"https://sideprojects-777.github.io/DatabaseBulls/game/descrp/4/de.txt",
-            "ru":"https://sideprojects-777.github.io/DatabaseBulls/game/descrp/4/ru.txt"
+            "en":"Friedrich Miescher was a Swiss biochemist best known for discovering nucleic acids, the molecules that form the basis of DNA and RNA. He isolated a substance he called nuclein from cell nuclei, laying the foundation for modern genetics and molecular biology. Although the importance of his discovery was not fully understood at the time, Miescher's pioneering research helped pave the way for our understanding of heredity and the genetic code.",
+            "de":"Friedrich Miescher war ein Schweizer Biochemiker, der vor allem für die Entdeckung der Nukleinsäuren bekannt ist, den Molekülen, die die Grundlage von DNA und RNA bilden. Er isolierte aus Zellkernen eine Substanz, die er Nuklein nannte, und legte damit den Grundstein für die moderne Genetik und Molekularbiologie. Obwohl die Bedeutung seiner Entdeckung damals noch nicht vollständig erkannt wurde, ebneten Mieschers bahnbrechende Forschungen den Weg für unser heutiges Verständnis von Vererbung und dem genetischen Code.",
+            "ru":"Фридрих Мишер был швейцарским биохимиком, наиболее известным благодаря открытию нуклеиновых кислот, молекул, лежащих в основе ДНК и РНК. Он выделил из клеточных ядер вещество, которое назвал «нуклеином», тем самым заложив основу современной генетики и молекулярной биологии. Хотя значение его открытия в то время ещё не было полностью осознано, новаторские исследования Мишера помогли проложить путь к нашему современному пониманию наследственности и генетического кода."
         },
         "rounds": 10,
         "reward": 500,
@@ -102,9 +102,9 @@
         },
         "answer":"1564",
         "description":{
-            "en":"https://sideprojects-777.github.io/DatabaseBulls/game/descrp/5/en.txt",
-            "de":"https://sideprojects-777.github.io/DatabaseBulls/game/descrp/5/de.txt",
-            "ru":"https://sideprojects-777.github.io/DatabaseBulls/game/descrp/5/ru.txt"
+            "en":"William Shakespeare was an English playwright, poet, and actor, widely regarded as the greatest writer in the English language. Born in Stratford-upon-Avon, he became famous for timeless works such as Romeo and Juliet, Hamlet, and Macbeth. His plays and sonnets have had a lasting influence on literature, theater, and culture, and continue to be performed around the world today.",
+            "de":"William Shakespeare war ein englischer Dramatiker, Dichter und Schauspieler und gilt als einer der größten Schriftsteller der Weltgeschichte. Er wurde in Stratford-upon-Avon geboren und erlangte Berühmtheit durch Werke wie Romeo und Julia, Hamlet und Macbeth. Seine Theaterstücke und Sonette prägten Literatur, Theater und Kultur nachhaltig und werden bis heute weltweit aufgeführt.",
+            "ru":"Уильям Шекспир был английским драматургом, поэтом и актёром, которого считают величайшим писателем английской литературы. Он родился в Стратфорд-апон-Эйвоне и прославился благодаря таким произведениям, как Ромео и Джульетта, Гамлет и Макбет. Его пьесы и сонеты оказали огромное влияние на литературу, театр и мировую культуру и продолжают ставиться по всему миру."
         },
         "rounds": 10,
         "reward": 300,
@@ -130,9 +130,9 @@
         },
         "answer":"1940",
         "description":{
-            "en":"https://sideprojects-777.github.io/DatabaseBulls/game/descrp/6/en.txt",
-            "de":"https://sideprojects-777.github.io/DatabaseBulls/game/descrp/6/de.txt",
-            "ru":"https://sideprojects-777.github.io/DatabaseBulls/game/descrp/6/ru.txt"
+            "en":"Bugs Bunny is a fictional cartoon character created by Warner Bros. He made his first official appearance in A Wild Hare, where his famous personality, voice, and catchphrase, What's up, Doc?, were introduced. Known for his quick wit, clever humor, and rivalry with Elmer Fudd, Bugs Bunny became one of the most iconic animated characters in entertainment history.",
+            "de":"Bugs Bunny ist eine fiktive Zeichentrickfigur, die von Warner Bros. geschaffen wurde. Seinen ersten offiziellen Auftritt hatte er in A Wild Hare, wo seine berühmte Persönlichkeit, seine Stimme und sein Markenzeichen What's up, Doc? vorgestellt wurden. Bekannt für seinen schnellen Verstand, seinen cleveren Humor und seine Rivalität mit Elmer Fudd, wurde Bugs Bunny zu einer der ikonischsten Zeichentrickfiguren der Unterhaltungsgeschichte.",
+            "ru":"Багз Банни — вымышленный мультипликационный персонаж, созданный компанией Warner Bros. Впервые он официально появился в мультфильме Дикий заяц, где зрителям были представлены его знаменитый характер, голос и фирменная фраза What's up, Doc?. Известный своим острым умом, остроумным юмором и соперничеством с Элмером Фаддом, Багз Банни стал одним из самых культовых анимационных персонажей в истории развлечений."
         },
         "rounds": 15,
         "reward": 500,
@@ -158,9 +158,9 @@
         },
         "answer":"1492",
         "description":{
-            "en":"https://sideprojects-777.github.io/DatabaseBulls/game/descrp/7/en.txt",
-            "de":"https://sideprojects-777.github.io/DatabaseBulls/game/descrp/7/de.txt",
-            "ru":"https://sideprojects-777.github.io/DatabaseBulls/game/descrp/7/ru.txt"
+            "en":"Christopher Columbus was an Italian explorer who set sail from Spain with three ships: the Niña, Pinta, and Santa Maria. Seeking a western route to Asia, he instead reached the Bahamas after 61 days, marking the beginning of European exploration of the Americas. Believing he had arrived in India, Columbus referred to the indigenous people as Indians, a name that persisted despite being inaccurate.",
+            "de":"Christoph Kolumbus war ein italienischer Entdecker, der mit drei Schiffen – der Niña, der Pinta und der Santa Maria – von Spanien aus in See stach. Auf der Suche nach einem westlichen Seeweg nach Asien erreichte er stattdessen nach 61 Tagen die Bahamas, was den Beginn der europäischen Erforschung Amerikas markierte. Da Kolumbus glaubte, in Indien angekommen zu sein, bezeichnete er die Ureinwohner als Indianer – eine Bezeichnung, die sich trotz ihrer Unrichtigkeit bis heute gehalten hat.",
+            "ru":"Христофор Колумб был итальянским исследователем, который отплыл из Испании на трёх кораблях: Нинья, Пинта и Санта-Мария. В поисках западного пути в Азию он через 61 день достиг Багамских островов, что положило начало европейскому освоению Америки. Полагая, что он прибыл в Индию, Колумб назвал коренное население индейцами — это название сохранилось, несмотря на его неточность."
         },
         "rounds": 10,
         "reward": 1000,
